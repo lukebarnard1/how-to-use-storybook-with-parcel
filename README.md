@@ -17,7 +17,7 @@ yarn install
 To run the example Parcel app:
 
 ```
-yarn start
+yarn parcel src/index.html
 ```
 
 To run the example Storybook (the default Storybook build):
